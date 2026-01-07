@@ -33,6 +33,12 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/esrairemkumasss?tab=repositories">
+    <img src="https://img.shields.io/github/stars/esrairemkumasss/iris-ml-project?style=social" />
+  </a>
+</p>
+---
 
 ### 📊 GitHub Stats
 
