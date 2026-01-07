@@ -1,69 +1,99 @@
-<h1 align="center">Hi 👋, I'm Esra İrem</h1>
-<h3 align="center">Software Developer | Machine Learning & Computer Vision Enthusiast</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=esrairemkumasss.esrairemkumasss" />
 
-<p align="center">
-  Passionate about building intelligent systems using Machine Learning, Deep Learning, and Computer Vision.
-</p>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Esra+İrem+Kumaş!;" 
+  />
+</h1>
 
----
+<h3 align="center">A passionate software developer from Türkiye 🇹🇷</h3>
 
-### 🚀 About Me
+<br/>
 
-- 🔭 Currently working on **License Plate Recognition & Face Recognition systems**
-- 🌱 Learning **Deep Learning, PyTorch, OpenCV, and AI model optimization**
-- 👯 Open to collaborate on **AI & Computer Vision projects**
-- 🤝 Interested in **scalable and optimized ML solutions**
-- 💬 Ask me about **Python, Machine Learning, Computer Vision**
-- 📫 Reach me at **esrairemkumas@gmail.com**
+<div align="center">
+ 
+🔭 I’m currently working on  
+**Computer Vision, License Plate Recognition & Face Recognition projects**
 
----
+🌱 I’m currently learning  
+**Deep Learning, PyTorch, OpenCV & AI Model Optimization**
 
-### 🌐 Connect with Me
+👯 I’m open to collaborate on  
+**AI, Machine Learning & Computer Vision projects**
 
-<p align="left">
+💬 Ask me about  
+**Python, C, TensorFlow, OpenCV, Machine Learning**
+
+⚡ Fun fact  
+**I enjoy turning complex problems into simple solutions 🚀**
+
+</div>
+
+<br/>
+
+<div align="center"> 
+  <a href="mailto:esrairemkumas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.linkedin.com/in/esra-irem-kuma%C5%9F-6868b7226/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://medium.com/@esrairemkumas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-         height="30" width="40" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-</p>
+</div>
 
----
-<p align="center">
-  <a href="https://github.com/esrairemkumasss?tab=repositories">
-    <img src="https://img.shields.io/github/stars/esrairemkumasss/iris-ml-project?style=social" />
-  </a>
-</p>
----
+<hr/>
 
-### 📊 GitHub Stats
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esrairemkumasss&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrairemkumasss&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,tensorflow,pytorch,opencv,sklearn,linux,git,github,vscode" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,sqlite,mysql,flask" />
+</div>
 
----
+<br/>
+<hr/>
 
-### 🛠️ Languages & Tools
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br/>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
+<div align="center">
+  <img 
+    alt="snake eating my contributions" 
+    src="https://raw.githubusercontent.com/esrairemkumasss/esrairemkumasss/output/github-contribution-grid-snake.svg" 
+  />
+</div>
 
----
+<br/>
+<hr/>
 
-## 🐍 Contribution Snake
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
 
-![snake](https://github.com/esrairemkumasss/esrairemkumasss/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img 
+    width="390" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=esrairemkumasss&theme=react&border_radius=10" 
+  />
+  <img 
+    width="390" 
+    src="https://github-readme-stats.vercel.app/api?username=esrairemkumasss&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+  />
+  <br/>
+  <img 
+    width="325" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrairemkumasss&layout=compact&theme=react&border_radius=10" 
+  />
+</div>
 
+<br/>
+<hr/>
+
+<div align="center">
+  ⭐ If you like my projects, feel free to give them a star!
+</div>
+
+<br/>
