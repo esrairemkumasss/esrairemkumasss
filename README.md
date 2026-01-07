@@ -92,6 +92,8 @@
 <br/>
 <hr/>
 
+![snake gif](https://github.com/esrairemkumasss/esrairemkumasss/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
   ⭐ If you like my projects, feel free to give them a star!
 </div>
