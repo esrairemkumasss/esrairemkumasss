@@ -63,6 +63,7 @@
 
 ---
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/esrairemkumasss/esrairemkumasss/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/esrairemkumasss/esrairemkumasss/blob/output/github-contribution-grid-snake.svg)
+
